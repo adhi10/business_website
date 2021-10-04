@@ -1,0 +1,21 @@
+Songs {
+    background-color: lightblue;
+    display:inline-block;
+}
+
+heading {
+    font-size: x-large;
+}
+
+Song {
+    font-size: larger;
+}
+
+Artist, Title, Release {
+    display: block;
+}
+
+Title {
+    font-size: x-large;
+    font-weight: bold;
+}

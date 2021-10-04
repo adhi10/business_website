@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css"?>
+<Songs>
+<heading> Here is my favourite song list!</heading>
+    <Song>
+        <Title>Title: Imperfections</Title>
+        <Artist>Artist: Pop Smoke</Artist>
+        <Genre>Genre: Rap </Genre>
+        <Release>Year: 2020</Release>
+    </Song>
+    <Song>
+        <Title>Title: Highest in the Room</Title>
+        <Artist>Artist: Travis Scott</Artist>
+        <Genre>Genre: Rap </Genre>
+        <Release>Year: 2020</Release>
+    </Song>
+    <Song>
+        <Title>Title: Wake me up</Title>
+        <Artist>Artist: Avicii</Artist>
+        <Genre>Genre: EDM </Genre>
+        <Release>Year: 2013</Release>
+    </Song>
+    <Song>
+        <Title>Title: Summer</Title>
+        <Artist>Artist: Avicii</Artist>
+        <Genre>Genre: EDM </Genre>
+        <Release>Year: 2014</Release>
+    </Song>
+    <Song>
+        <Title>Title: One More Time</Title>
+        <Artist>Artist: Daft Punk</Artist>
+        <Genre>Genre: EDM </Genre>
+        <Release>Year: 2000</Release>
+    </Song>
+    <Song>
+        <Title>Title: Hey Jude</Title>
+        <Artist>Artist: Beatles</Artist>
+        <Genre>Genre: Rock </Genre>
+        <Release>Year: 1968</Release>
+    </Song>
+    <Song>
+        <Title>Title: In the name of love</Title>
+        <Artist>Artist: Martin Garrix</Artist>
+        <Genre>Genre: EDM </Genre>
+        <Release>Year: 2016</Release>
+    </Song>
+    <Song>
+        <Title>Title: One Dance</Title>
+        <Artist>Artist: Drake</Artist>
+        <Genre>Genre: Rap </Genre>
+        <Release>Year: 2016</Release>
+    </Song>
+    <Song>
+        <Title>Title: Popstar</Title>
+        <Artist>Artist: Drake</Artist>
+        <Genre>Genre: Rap </Genre>
+        <Release>Year: 2020</Release>
+    </Song>
+    <Song>
+        <Title>Title:  Hate Me</Title>
+        <Artist>Artist: Juice WRLD</Artist>
+        <Genre>Genre: Rap </Genre>
+        <Release>Year: 2019</Release>
+    </Song>
+</Songs>
